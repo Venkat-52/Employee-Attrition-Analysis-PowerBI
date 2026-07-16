@@ -74,6 +74,42 @@ The dashboard was developed as part of a Business Analyst internship project and
 
 ---
 
+## 📸 Dashboard Preview
+
+### Dashboard 1 – Employee Attrition Overview
+
+![Dashboard 1](Dashboard_Screenshots/Dashboard_Page_1.png)
+
+---
+
+### Dashboard 2 – Department & Job Role Analysis
+
+![Dashboard 2](Dashboard_Screenshots/Dashboard_Page_2.png)
+
+---
+
+### Dashboard 3 – Demographic Attrition Analysis
+
+![Dashboard 3](Dashboard_Screenshots/Dashboard_Page_3.png)
+
+---
+
+### Dashboard 4 – Tenure & Career Stage Analysis
+
+![Dashboard 4](Dashboard_Screenshots/Dashboard_Page_4.png)
+
+---
+
+### Dashboard 5 – Workload & Mobility Analysis
+
+![Dashboard 5](Dashboard_Screenshots/Dashboard_Page_5.png)
+
+---
+
+### Dashboard 6 – Executive Summary
+
+![Dashboard 6](Dashboard_Screenshots/Dashboard_Page_6.png)
+
 ## 📊 Key Insights
 
 - Overall Attrition Rate: **16.12%**

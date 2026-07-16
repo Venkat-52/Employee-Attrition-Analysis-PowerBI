@@ -78,37 +78,38 @@ The dashboard was developed as part of a Business Analyst internship project and
 
 ### Dashboard 1 – Employee Attrition Overview
 
-![Dashboard 1](Dashboard_Screenshots/Dashboard_Page_1.png)
+<img width="1272" height="717" alt="Dashboard_Page_1" src="https://github.com/user-attachments/assets/deb38d76-f1d0-4773-9719-cc84122ff178" />
 
 ---
 
 ### Dashboard 2 – Department & Job Role Analysis
 
-![Dashboard 2](Dashboard_Screenshots/Dashboard_Page_2.png)
+<img width="1272" height="711" alt="Dashboard_Page_2" src="https://github.com/user-attachments/assets/5280749d-4634-4f44-a4c9-8b16a7f826b9" />
 
 ---
 
 ### Dashboard 3 – Demographic Attrition Analysis
 
-![Dashboard 3](Dashboard_Screenshots/Dashboard_Page_3.png)
+<img width="1272" height="713" alt="Dashboard_Page_3" src="https://github.com/user-attachments/assets/13a06821-9f6d-4e6e-8064-1a00b229be9f" />
 
 ---
 
 ### Dashboard 4 – Tenure & Career Stage Analysis
 
-![Dashboard 4](Dashboard_Screenshots/Dashboard_Page_4.png)
+<img width="1272" height="712" alt="Dashboard_Page_4" src="https://github.com/user-attachments/assets/0862bb4e-e217-4432-a571-241fb6bf42bf" />
 
 ---
 
 ### Dashboard 5 – Workload & Mobility Analysis
 
-![Dashboard 5](Dashboard_Screenshots/Dashboard_Page_5.png)
+<img width="1277" height="707" alt="Dashboard_Page_5" src="https://github.com/user-attachments/assets/5ae66ebe-bd67-42a9-b9df-44e953e2ebff" />
 
 ---
 
 ### Dashboard 6 – Executive Summary
 
-![Dashboard 6](Dashboard_Screenshots/Dashboard_Page_6.png)
+<img width="1278" height="712" alt="Dashboard_Page_6" src="https://github.com/user-attachments/assets/7db17754-dbc8-4cd2-8094-c73b6875beb1" />
+
 
 ## 📊 Key Insights
 

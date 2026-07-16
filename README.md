@@ -6,7 +6,6 @@ This project analyzes employee attrition patterns using Microsoft Power BI. The 
 
 The dashboard was developed as part of a Business Analyst internship project and demonstrates end-to-end data analysis, dashboard development, and business storytelling.
 
----
 
 ## 🎯 Objectives
 
@@ -17,7 +16,7 @@ The dashboard was developed as part of a Business Analyst internship project and
 - Evaluate the impact of overtime, business travel, work-life balance, and environment satisfaction
 - Provide HR recommendations based on data-driven insights
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -26,7 +25,6 @@ The dashboard was developed as part of a Business Analyst internship project and
 - DAX (Data Analysis Expressions)
 - Microsoft Excel (CSV Dataset)
 
----
 
 ## 📈 Dashboard Pages
 
@@ -69,7 +67,6 @@ The dashboard was developed as part of a Business Analyst internship project and
 - HR Recommendations
 - Expected Business Impact
 
----
 
 ## 📸 Dashboard Preview
 
@@ -77,19 +74,18 @@ The dashboard was developed as part of a Business Analyst internship project and
 
 <img width="1272" height="717" alt="Dashboard_Page_1" src="https://github.com/user-attachments/assets/deb38d76-f1d0-4773-9719-cc84122ff178" />
 
----
 
 ### Dashboard 2 – Department & Job Role Analysis
 
 <img width="1272" height="711" alt="Dashboard_Page_2" src="https://github.com/user-attachments/assets/5280749d-4634-4f44-a4c9-8b16a7f826b9" />
 
----
+
 
 ### Dashboard 3 – Demographic Attrition Analysis
 
 <img width="1272" height="713" alt="Dashboard_Page_3" src="https://github.com/user-attachments/assets/13a06821-9f6d-4e6e-8064-1a00b229be9f" />
 
----
+
 
 ### Dashboard 4 – Tenure & Career Stage Analysis
 
@@ -101,7 +97,7 @@ The dashboard was developed as part of a Business Analyst internship project and
 
 <img width="1277" height="707" alt="Dashboard_Page_5" src="https://github.com/user-attachments/assets/5ae66ebe-bd67-42a9-b9df-44e953e2ebff" />
 
----
+
 
 ### Dashboard 6 – Executive Summary
 
@@ -118,7 +114,7 @@ The dashboard was developed as part of a Business Analyst internship project and
 - Early-tenure employees (0–2 years) experienced the highest attrition.
 - Longer promotion gaps were associated with increased attrition.
 
----
+
 
 ## 💡 Business Recommendations
 
@@ -128,7 +124,7 @@ The dashboard was developed as part of a Business Analyst internship project and
 - Focus retention strategies on high-risk departments and job roles.
 - Enhance work-life balance initiatives.
 
----
+
 
 ## 📂 Repository Contents
 
@@ -137,7 +133,7 @@ The dashboard was developed as part of a Business Analyst internship project and
 - Dashboard_Screenshots/
 - README.md
 
----
+
 
 ## 👤 Author
 

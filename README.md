@@ -125,16 +125,6 @@ The dashboard was developed as part of a Business Analyst internship project and
 - Enhance work-life balance initiatives.
 
 
-
-## 📂 Repository Contents
-
-- Employee_Attrition_Analysis.pbix
-- Employee_Attrition_Analysis_Report.pdf
-- Dashboard_Screenshots/
-- README.md
-
-
-
 ## 👤 Author
 
 **Venkataramana R**
